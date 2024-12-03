@@ -1,0 +1,24 @@
+music
+google-images-download
+__pycache__
+.env
+*.db
+chat.txt
+secret.py
+secretsfile
+Waifu2x
+yolov5
+picture
+notused
+text
+test
+cog/debug.py
+.venv
+cog/debug.py
+
+#Editor files
+/.idea/
+.vscode
+json/service_account.json
+json/user_vcmodel.json
+
